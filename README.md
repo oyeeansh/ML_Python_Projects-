@@ -1,4 +1,4 @@
-# ML_Python_Projects-
+# ML_Python_Projects
 These are some of my Machine Learning projects using Python namely
 - Wine Quality Prediction
 - Gold Price Prediction
